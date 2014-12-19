@@ -1,0 +1,9 @@
+c:\users\ermelber\documents\visual studio 2013\Projects\ARM9 Editor\ARM9 Editor\bin\Debug\ARM9 Editor.exe.config
+c:\users\ermelber\documents\visual studio 2013\Projects\ARM9 Editor\ARM9 Editor\bin\Debug\ARM9 Editor.exe
+c:\users\ermelber\documents\visual studio 2013\Projects\ARM9 Editor\ARM9 Editor\bin\Debug\ARM9 Editor.pdb
+c:\users\ermelber\documents\visual studio 2013\Projects\ARM9 Editor\ARM9 Editor\obj\Debug\ARM9 Editor.csprojResolveAssemblyReference.cache
+c:\users\ermelber\documents\visual studio 2013\Projects\ARM9 Editor\ARM9 Editor\obj\Debug\ARM9_Editor.Form1.resources
+c:\users\ermelber\documents\visual studio 2013\Projects\ARM9 Editor\ARM9 Editor\obj\Debug\ARM9_Editor.Properties.Resources.resources
+c:\users\ermelber\documents\visual studio 2013\Projects\ARM9 Editor\ARM9 Editor\obj\Debug\ARM9 Editor.csproj.GenerateResource.Cache
+c:\users\ermelber\documents\visual studio 2013\Projects\ARM9 Editor\ARM9 Editor\obj\Debug\ARM9 Editor.exe
+c:\users\ermelber\documents\visual studio 2013\Projects\ARM9 Editor\ARM9 Editor\obj\Debug\ARM9 Editor.pdb
